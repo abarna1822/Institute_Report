@@ -1,6 +1,7 @@
-Institute Report Dashboard – Power BI
+<img width="1920" height="1079" alt="Institute_Report_SS" src="https://github.com/user-attachments/assets/07bd6b57-412c-4262-8001-9e70642ad532" />Institute Report Dashboard – Power BI
 
 This project is a Power BI dashboard designed to analyze student enrollment, course performance, and certificate issuance for an educational institute.
+
 
 🔍 Key Insights:
 
